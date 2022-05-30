@@ -3,6 +3,16 @@
 I'm currently a cybersecurity engineering major at HBU. I enjoy working on projects in my spare time and developing usefull applications in order to become more knowlegable in my carrer. Feel free to take a loot at my Github account and other media
 
 
+
+.____    .__               ________          
+|    |   |__|__  __ ____   \_____  \   ____  
+|    |   |  \  \/ // __ \   /   |   \ /    \ 
+|    |___|  |\   /\  ___/  /    |    \   |  \
+|_______ \__| \_/  \___  > \_______  /___|  /
+        \/             \/          \/     \/ 
+
+
+
 - :earth_americas:I'm open to any kind of collaboration/learning oportunity, feel free to contact me
 - :information_source:Here's some information about my account:
 
