@@ -31,7 +31,7 @@ FOR "SWEET" Theme
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoCorazon&theme=dark&show_icons=true&title_color=E31D44&icon_color=F8DC3C&text_color=EC7A25&bg_color=212237&hide_border=TRUE)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EduardoCorazon&theme=neon-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 --->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCorazon&layout=compact&&title_color=39D253&icon_color=1F6FEA&text_color=EBEBEC&bg_color=0D1117&hide_border=TRUE&card_width=945)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCorazon&layout=compact&&title_color=39D253&icon_color=1F6FEA&text_color=EBEBEC&bg_color=0D1117&hide_border=TRUE)
 
 
 
