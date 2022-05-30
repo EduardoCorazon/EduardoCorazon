@@ -16,10 +16,8 @@
                     ╚═╝  ╚═╝╚═════╝       ╚═══╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
                                                                       
 ```
-
-- :globe_with_meridians:[My website](https://eduardocorazon.github.io/my-portfolio/)
-- <p align="center">:earth_americas:I'm open to any kind of collaboration/learning oportunity, feel free to contact me</p>
-- <p align="center">:information_source:Here's some information about my account:</p>
+<p align="center">:earth_americas:I'm open to any kind of collaboration/learning oportunity, feel free to contact me by reaching out below!</p>
+<p align="center">:information_source:Here's some information about my account:</p>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoCorazon&theme=dark&show_icons=true&show_icons=true&title_color=39D253&icon_color=1F6FEA&text_color=EBEBEC&bg_color=0D1117&hide_border=TRUE)
@@ -31,15 +29,7 @@ FOR "SWEET" Theme
 --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCorazon&layout=compact&&title_color=39D253&icon_color=1F6FEA&text_color=EBEBEC&bg_color=0D1117&hide_border=TRUE)
 
-
-
-
-- My Socials:
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EduardoCorazon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/eduardo-corazon-21b362222//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://eduardocorazon.github.io/my-portfolio/)  
-
-
-
+:globe_with_meridians:[My website](https://eduardocorazon.github.io/my-portfolio/) | [My LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/eduardo-corazon-21b362222//)
 <!---
 EduardoCorazon/EduardoCorazon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
