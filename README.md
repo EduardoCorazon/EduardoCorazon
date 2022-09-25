@@ -29,7 +29,7 @@ FOR "SWEET" Theme
 --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCorazon&layout=compact&&title_color=39D253&icon_color=1F6FEA&text_color=EBEBEC&bg_color=0D1117&hide_border=TRUE)
 
-:globe_with_meridians:[My website](https://eduardocorazon.github.io/my-portfolio/) | [My LinkedIn](https://www.linkedin.com/in/eduardo-corazon-21b362222/)
+:globe_with_meridians:[My website](https://eduardocorazon.github.io/portfolio/) | [My LinkedIn](https://www.linkedin.com/in/eduardo-corazon-21b362222/)
 <!---
 EduardoCorazon/EduardoCorazon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
